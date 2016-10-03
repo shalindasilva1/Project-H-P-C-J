@@ -15,4 +15,4 @@ Group Project
 
 >ඒ ටේබල් එකේ තියන් dummy data වලින් log in එකයි season එකයි up කරගන්න 
 
->logout(new still working)
+>logout(new still working on it)
